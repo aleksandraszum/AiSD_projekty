@@ -17,16 +17,14 @@ def objetosc(liczba_krokow):
         wynik = wynik + czy_wewnatrz_figury(x, y, z)
     return wynik * (8 / liczba_krokow)
 
-def teoretyczna_objetosc(H, h, r):
-    return (pi*r**2*H + 2*(pi*h**2*(3*r-h)/3))
+def teoretyczna_objetosc(H, h, r, R):
+    return (pi*r**2*H + 2*(pi*h**2*(3*R-h)/3))
 
-def zapisz_wynik(wywolania, H, h, r):
+def zapisz_wynik(wywolania, H, h, r, R):
     moj_wynik = np.zeros((4, len(wywolania)))
     j=0
-    czas_start = time.time()
-    t_objetosc = teoretyczna_objetosc(H,h,r)
+    t_objetosc = teoretyczna_objetosc(H,h,r, R)
     for i in wywolania:
-        print(i)
         czas_start = time.time()
         obliczona_objetosc = objetosc(i)
         roznica = abs(t_objetosc - obliczona_objetosc)
@@ -44,10 +42,11 @@ def zapisz_wynik(wywolania, H, h, r):
 H = sqrt(3)
 h = (2-sqrt(3))/2
 r = 0.5
+R=1
 
+print(teoretyczna_objetosc(H,h,r,R))
 #poprawna_objetosc1 = pi*0.5**2*sqrt(3) + 2*((pi*((2-sqrt(3))/2)**2)/3*(3/2-((2-sqrt(3))/2)))
-
-tablica_wywolan = np.array([10**3,10**4,10**5, 10**6])
-#tablica_wywolan = np.array([10**3,10**4,10**5,10**6,10**7,10**8,10**9])
-print(zapisz_wynik(tablica_wywolan, H, h, r))
+#print(teoretyczna_objetosc(H,h,r,R))
+tablica_wywolan = np.array([10**3,10**4,10**5,10**6,10**7,10**8,10**9])
+print(zapisz_wynik(tablica_wywolan, H, h, r, R))
 
