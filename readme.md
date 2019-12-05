@@ -1,6 +1,6 @@
-#Algorytmy i Struktury Danych
+# Algorytmy i Struktury Danych
 
-##Projekt 1
+## Projekt 1
 
 ### Biostatystyka, UMB, grudzień 2019 
 
