@@ -21,7 +21,7 @@ def teoretyczna_objetosc(H, h, r, R):
     return (pi*r**2*H + 2*(pi*h**2*(3*R-h)/3))
 
 def zapisz_wynik(wywolania, H, h, r, R):
-    moj_wynik = np.zeros((4, len(wywolania)))
+    moj_wynik = np.zeros((len(wywolania), 4))
     j=0
     t_objetosc = teoretyczna_objetosc(H,h,r, R)
     for i in wywolania:
@@ -30,10 +30,10 @@ def zapisz_wynik(wywolania, H, h, r, R):
         roznica = abs(t_objetosc - obliczona_objetosc)
         czas_koniec = time.time()
         czas = (czas_koniec - czas_start)
-        moj_wynik[0,j] = i
-        moj_wynik[1,j] = obliczona_objetosc
-        moj_wynik[2,j] = roznica
-        moj_wynik[3,j] = czas
+        moj_wynik[j,0] = i
+        moj_wynik[j,1] = obliczona_objetosc
+        moj_wynik[j,2] = roznica
+        moj_wynik[j,3] = czas
         j = j+1
     np.savetxt("results\ result.txt", moj_wynik, delimiter=' & ', fmt='%2.8e', newline=' \\\\\n')
     #zapis do pliku: 1 wiersz-l. powtórzeń 2-obliczona V, 3-obliczona roznica 4- czas trwania petli
