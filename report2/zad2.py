@@ -31,14 +31,14 @@ mutacja1 = "agaggtgtcctgggaaaggaggcattatccaaggtacggtggggtaggat"
 mutacja2 = "agaggcgtacgggcattttcaagattgtccatgatgcggtggagtagcgc"
 mutacja3 = "agaggtgtactaggaaaatcgtgattatgcatgctgaggcggggtcgagc"
 
-matrix, odleglosc1 = odl_levensztejna(oryginalna_sekwencja, mutacja1)
+#matrix, odleglosc1 = odl_levensztejna(oryginalna_sekwencja, mutacja1)
 #matrix2, odleglosc2 = odl_levensztejna(oryginalna_sekwencja, mutacja2)
-#matrix3, odleglosc3 = odl_levensztejna(oryginalna_sekwencja, mutacja3)
+matrix3, odleglosc3 = odl_levensztejna(oryginalna_sekwencja, mutacja3)
 
-
-#tablica1 = a2l.to_ltx(matrix, frmt = '{:6.0f}', arraytype = 'tabular')
-#tablica2 = a2l.to_ltx(matrix, frmt = '{:6.0f}', arraytype = 'array')
-#tablica3 = a2l.to_ltx(matrix, frmt = '{:6.0f}', arraytype = 'array')
-
-#https://github.com/josephcslater/array_to_latex
-
+"""
+matrix, odleglosc1 = odl_levensztejna(mutacja2, mutacja1)
+print(odleglosc1)
+matrix, odleglosc2 = odl_levensztejna(mutacja3, mutacja1)
+print(odleglosc2)
+matrix, odleglosc3 = odl_levensztejna(mutacja2, mutacja3)
+print(odleglosc3)"""

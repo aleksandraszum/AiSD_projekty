@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31df3ee1-aa89-41fd-b49f-2161ffcd61aa" name="Default Changelist" comment="updates - py, m files">
-      <change afterPath="$PROJECT_DIR$/report2/zad2.py" afterDir="false" />
+    <list default="true" id="31df3ee1-aa89-41fd-b49f-2161ffcd61aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report1/createFit.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report1/my_graphs.m" beforeDir="false" afterPath="$PROJECT_DIR$/report1/my_graphs.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report1/my_graphs.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report1/my_graphs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report1/results/ result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report1/results/ result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report1/zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/report1/zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report2/zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/report2/zad2.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,71 +16,6 @@
     <SUITE FILE_PATH="coverage/aisd1$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1577473714921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report2" />
     <SUITE FILE_PATH="coverage/aisd1$Unnamed.coverage" NAME="my_conf Coverage Results" MODIFIED="1575309326664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1081922083">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.47" value="1" />
-          <entry key="project.opened" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="md" value="1" />
-          <entry key="py" value="3" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="46" />
-          <entry key="md" value="234" />
-          <entry key="py" value="3158" />
-          <entry key="txt" value="41" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="234" />
-          <entry key="PLAIN_TEXT" value="41" />
-          <entry key="Python" value="3204" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/report2/zad2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -98,66 +26,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/zad1.py" />
-        <option value="$PROJECT_DIR$/report1/results/ result.txt" />
-        <option value="$PROJECT_DIR$/report1/zad1.py" />
-        <option value="$PROJECT_DIR$/report2/zad2.py" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
-  </component>
+  <component name="ProjectId" id="1W1b3RZCycshnYNp0t5Jmij0uHs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="aisd1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aisd1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.zad2">
     <configuration name="my_conf" type="PythonConfigurationType" factoryName="Python">
@@ -226,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python">
       <module name="aisd1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,15 +132,26 @@
     <list>
       <item itemvalue="Python.my_conf" />
       <item itemvalue="Python.zad1" />
-      <item itemvalue="Python.zad1 (1)" />
       <item itemvalue="Python.zad2" />
+      <item itemvalue="Python.zad1 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zad2" />
         <item itemvalue="Python.zad1 (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -271,6 +163,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575308310327</updated>
+      <workItem from="1578319855577" duration="1640000" />
+      <workItem from="1578608330096" duration="473000" />
     </task>
     <task id="LOCAL-00001" summary="updates - py, m files">
       <created>1576096959711</created>
@@ -293,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576097186596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates report 2">
+      <created>1577474543404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577474543404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -305,77 +206,53 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.283419" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48650387" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993573" weight="0.39892185" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4974293" weight="0.32884097" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51349616" side_tool="true" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49485862" weight="0.32884097" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49871466" weight="0.32884097" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates - py, m files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates - py, m files" />
+    <MESSAGE value="updates report 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates report 2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zad1.py" />
-    <entry file="file://$PROJECT_DIR$/report1/results/ result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report1/zad1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report2/zad2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578319954916">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1578319954916" />
+    <state x="519" y="45" key="#zad2" timestamp="1578321093694">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="519" y="45" key="#zad2/0.0.1600.860@0.0.1600.860" timestamp="1578321093694" />
+    <state x="534" y="192" key="EnvironmentVariablesDialog" timestamp="1578319934280">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="534" y="192" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578319934280" />
+    <state width="757" height="221" key="GridCell.Tab.0.bottom" timestamp="1578608412675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="757" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
+    <state width="757" height="221" key="GridCell.Tab.0.center" timestamp="1578608412675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="757" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
+    <state width="757" height="221" key="GridCell.Tab.0.left" timestamp="1578608412675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="757" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
+    <state width="757" height="221" key="GridCell.Tab.0.right" timestamp="1578608412675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="757" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1578321215091">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578321215091" />
+    <state x="501" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578608364847">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578608364847" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aisd1$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1578608412647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report2" />
   </component>
 </project>
