@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31df3ee1-aa89-41fd-b49f-2161ffcd61aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aisd1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aisd1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report2/zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/report2/zad2.py" afterDir="false" />
     </list>
@@ -34,13 +36,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.zad2">
+  <component name="RunManager" selected="Python.zad3">
     <configuration name="my_conf" type="PythonConfigurationType" factoryName="Python">
       <module name="aisd1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,15 +132,63 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aisd1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/report3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/report3/zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadanie3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aisd1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/report3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/report3/zadanie3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.my_conf" />
       <item itemvalue="Python.zad1" />
       <item itemvalue="Python.zad2" />
       <item itemvalue="Python.zad1 (1)" />
+      <item itemvalue="Python.zad3" />
+      <item itemvalue="Python.zadanie3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad3" />
         <item itemvalue="Python.zad1 (1)" />
+        <item itemvalue="Python.zadanie3" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +215,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575308310327</updated>
       <workItem from="1578319855577" duration="1640000" />
-      <workItem from="1578608330096" duration="473000" />
+      <workItem from="1578608330096" duration="695000" />
+      <workItem from="1578667152125" duration="34000" />
+      <workItem from="1579720918040" duration="1638000" />
+      <workItem from="1579724346047" duration="166000" />
+      <workItem from="1579724609935" duration="2144000" />
+      <workItem from="1579881056792" duration="4000" />
+      <workItem from="1579881349582" duration="279000" />
+      <workItem from="1579901157393" duration="4157000" />
     </task>
     <task id="LOCAL-00001" summary="updates - py, m files">
       <created>1576096959711</created>
@@ -194,7 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577474543404</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updates report 2">
+      <created>1578608819569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578608819569</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updates report 2">
+      <created>1578608925606</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578608925606</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -215,52 +287,60 @@
     <option name="LAST_COMMIT_MESSAGE" value="updates report 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578319954916">
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579725414120">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1578319954916" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1579725414120" />
     <state x="519" y="45" key="#zad2" timestamp="1578321093694">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="519" y="45" key="#zad2/0.0.1600.860@0.0.1600.860" timestamp="1578321093694" />
-    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1578608813192">
+    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1578608923367">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578608813192" />
+    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578608923367" />
     <state x="534" y="192" key="EnvironmentVariablesDialog" timestamp="1578319934280">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="534" y="192" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578319934280" />
-    <state width="757" height="221" key="GridCell.Tab.0.bottom" timestamp="1578608412675">
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1579881627464">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="757" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
-    <state width="757" height="221" key="GridCell.Tab.0.center" timestamp="1578608412675">
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579881627464" />
+    <state width="1557" height="221" key="GridCell.Tab.0.bottom" timestamp="1579904826473">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="757" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
-    <state width="757" height="221" key="GridCell.Tab.0.left" timestamp="1578608412675">
+    <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579904826473" />
+    <state width="1557" height="221" key="GridCell.Tab.0.center" timestamp="1579904826473">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="757" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
-    <state width="757" height="221" key="GridCell.Tab.0.right" timestamp="1578608412675">
+    <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579904826473" />
+    <state width="1557" height="221" key="GridCell.Tab.0.left" timestamp="1579904826472">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="757" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578608412675" />
-    <state x="301" y="73" key="SettingsEditor" timestamp="1578321215091">
+    <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579904826472" />
+    <state width="1557" height="221" key="GridCell.Tab.0.right" timestamp="1579904826473">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578321215091" />
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1578608836263">
+    <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579904826473" />
+    <state x="498" y="67" key="SettingsEditor" timestamp="1579881535125">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578608836263" />
-    <state x="501" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578608364847">
+    <state x="498" y="67" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579881535125" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1578608928360">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="501" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578608364847" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578608928360" />
+    <state x="501" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578667166865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578667166865" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/aisd1$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1578608412647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report2" />
+    <SUITE FILE_PATH="coverage/aisd1$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1579881572327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report2" />
+    <SUITE FILE_PATH="coverage/aisd1$zad1__1_.coverage" NAME="zad1 (1) Coverage Results" MODIFIED="1579881584162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report1" />
+    <SUITE FILE_PATH="coverage/aisd1$zadanie3.coverage" NAME="zadanie3 Coverage Results" MODIFIED="1579725527753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report3" />
+    <SUITE FILE_PATH="coverage/aisd1$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1579881577057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aisd1$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1579904826452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report3" />
   </component>
 </project>

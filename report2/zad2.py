@@ -1,5 +1,4 @@
 import numpy as np
-import array_to_latex as a2l
 
 def odl_levensztejna(napis1, napis2):
     wiersze = len(napis1)+1
