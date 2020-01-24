@@ -103,7 +103,7 @@ Vk15d = 256*pi**7/2027025*r**15
 print('Wartość teoretyczna w 15D')
 print(Vm15d/Vk15d)
 print('Wartość wyznaczona:')
-print(czesc2(10**7, 15)) #-> Error: float division by zero
+print(czesc2(10**7, 15))
 
 
 # Objetosc miaszu w 21D
